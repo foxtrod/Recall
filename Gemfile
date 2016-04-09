@@ -1,0 +1,7 @@
+source 'https://rubygems.org'
+gem 'sinatra'
+gem 'data_mapper'
+gem 'dm-sqlite-adapter'
+gem 'builder'
+gem 'sinatra-redirect-with-flash'
+gem 'rack-flash3'
